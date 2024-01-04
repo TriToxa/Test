@@ -1,1 +1,3 @@
-echo "ne"
+import procedures
+
+myProcedure()
