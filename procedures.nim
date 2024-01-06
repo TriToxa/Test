@@ -1,2 +1,2 @@
-proc myProcedure() =
+proc myProcedure*() =
   echo "Hello world!"
